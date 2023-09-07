@@ -2,7 +2,7 @@
 <h2> Hi 👋, I'm Martín García Blanco 👨‍💻</h2>
 
 <img align='right' src="https://github.com/martin-garcia-blanco/martin-garcia-blanco/blob/master/me.png" width="240" >
-<h3 align="center">A passionate full stack developer from Galicia, but currently living in Barcelona</h3>
+<h3 align="center">I’m a FullStack developer passionate about the holistic view of a project, from talking and discovering the needs with the client, going through the development of the features on both the client and backend side at the same time I enjoy building and preparing the infrastructure.</h3>
 
 #
 </br>
