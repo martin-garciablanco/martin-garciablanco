@@ -17,7 +17,7 @@ FullStack developer at [Codurance](http://codurance.com/)
 ```javascript
 const martin = {
   stacks: [TypeScript, Java, HTML, CSS, SQL, MongoDB, AWS],
-  frameworks: [React, Vue, Nuxt, SpringBoot, Express]
+  frameworks: [React, Vue, Nuxt, SpringBoot, Express],
   currentMotivations: [Distributed systems, DDD, Testing],
   hobbies: [Rock climbing, Alpinism, Mountaneering, Cook]
 };
