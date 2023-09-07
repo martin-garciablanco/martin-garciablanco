@@ -16,18 +16,10 @@ FullStack developer at [Codurance](http://codurance.com/)
 
 ```javascript
 const martin = {
-  code: [JavaScript, TypeScript, HTML, CSS, Java, SQL, MongoDB],
-  tools: [React, ReactNative, Redux, Node, Jest, Testing Library, Docker, GithubActions],
-  currentMotivations: {
-    area: "Mobile development",
-    tools: [GraphQL, ReactNative],
-  },
-  sideProject: {
-    description: "I'm curently developing a mobile application with ReactNative to find, rate,
-    and collect movies and tv shows",
-    release: "At the end of the summer the first version will be released on Android and IOS",
-  },
-
+  stacks: [TypeScript, Java, HTML, CSS, SQL, MongoDB, AWS],
+  frameworks: [React, Vue, Nuxt, SpringBoot, Express]
+  currentMotivations: [Distributed systems, DDD, Testing],
+  hobbies: [Rock climbing, Alpinism, Mountaneering, Cook]
 };
 ```
 
